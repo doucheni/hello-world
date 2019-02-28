@@ -1,2 +1,4 @@
 # hello-world
-Tuto new repository
+
+Hi ! 
+I'm just following the tutorial :)
